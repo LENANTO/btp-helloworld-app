@@ -1,0 +1,7 @@
+<mvc:View controllerName="helloworldui5.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="LENANTO HelloWorld">
+        <content />
+    </Page>
+</mvc:View>
